@@ -1,11 +1,13 @@
 about:
-  description: Create and view custom hotkey cheatsheets in the terminal
+  description:
+  |
+    Create and view custom hotkey cheatsheets in the terminal
   license: MIT
   homepage: 
   head: 372b7e3
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-04T04:52:33Z
+  collectedAt: 2026-09-04T19:51:40Z
 timeline:
   created: 2022-01-15
   lastCommit: 2026-09-01
@@ -16,17 +18,25 @@ popularity:
   fork: 7
   release: 9
   contributor: 3
-  pullRequest: 2
+  pullRequest: 20
   issue: 20
 language:
   Go: 49028
   Makefile: 641
-totalLine: 49669
+totalBytes: 49669
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 4
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 1
     openPR: 0
     closedIssue: 0
     openIssue: 0
@@ -55,3 +65,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 15
+  last720d:
+    since: 2024-09-14
+    release: 1
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 16
+total:
+  release: 9
+  mergedPR: 18
+  openPR: 0
+  closedIssue: 13
+  openIssue: 7
+  commit: 133
+---
+---
+
