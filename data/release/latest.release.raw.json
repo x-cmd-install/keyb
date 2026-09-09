@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1682466,
       "digest": "sha256:9f29517304635158a5febb3effe0c19deb1f8601a1d726451065fe2383c96287",
-      "download_count": 130,
+      "download_count": 132,
       "created_at": "2026-03-20T15:42:48Z",
       "updated_at": "2026-03-20T15:42:48Z",
       "browser_download_url": "https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-linux-amd64.tar.gz"
