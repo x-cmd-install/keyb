@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: keyb
+  binname: keyb
+  visiblename: keyb
+  version: 0.5.0
+  origversion: 0.5.0-1
+  status: outdated
+  summary: Create and view your own custom hotkey cheatsheet in the terminal
+  maintainers:
+    - crsharff@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: keyb-bin
+  binname: keyb-bin
+  visiblename: keyb-bin
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: unique
+  summary: Create and view your own custom hotkey cheatsheet in the terminal
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - MIT
