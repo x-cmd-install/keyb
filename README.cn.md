@@ -4,7 +4,7 @@
 
 Create and view custom hotkey cheatsheets in the terminal
 
-![keyb](https://repo.x-cmd.io/keyb.svg)
+![keyb](https://repo.x-cmd.io/keyb.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,20 @@ x install keyb
 - **最新版本**: `v0.8.0` (2026-03-20)
 - **最近提交**: 2026-09-01
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-03-20T15:42:49Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/kencx/keyb/releases/download/v0.8.0/checksums.txt) | 771 B | `other` |
+| [keyb-v0.8.0-darwin-amd64.tar.gz](https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-darwin-amd64.tar.gz) | 1.6 MiB | `native/darwin/x64` |
+| [keyb-v0.8.0-darwin-arm64.tar.gz](https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-darwin-arm64.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
+| [keyb-v0.8.0-linux-386.tar.gz](https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-linux-386.tar.gz) | 1.5 MiB | `native/unknown` |
+| [keyb-v0.8.0-linux-amd64.tar.gz](https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-linux-amd64.tar.gz) | 1.6 MiB | `native/linux/x64` |
+| [keyb-v0.8.0-linux-arm64.tar.gz](https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-linux-arm64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
+| [keyb-v0.8.0-windows-386.zip](https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-windows-386.zip) | 1.6 MiB | `native/win/x64` |
+| [keyb-v0.8.0-windows-amd64.zip](https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-windows-amd64.zip) | 1.6 MiB | `native/win/x64` |
+| [keyb-v0.8.0-windows-arm64.zip](https://github.com/kencx/keyb/releases/download/v0.8.0/keyb-v0.8.0-windows-arm64.zip) | 1.5 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -61,4 +74,4 @@ keyb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:51:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:02:54Z._
