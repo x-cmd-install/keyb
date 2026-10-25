@@ -37,22 +37,22 @@ Total: **4,442** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 249 · **Forks**: 8 · **Open issues**: 20 · **Contributors**: 3
+- **Stars**: 247 · **Forks**: 8 · **Open issues**: 21 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 7 · **Commits**: 133
+- **Releases**: 9 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 8 · **Commits**: 133
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-27 | 0 | 3 | 0 | 0 | 0 | 4 |
-| 360d | 2025-10-29 | 1 | 3 | 0 | 0 | 0 | 15 |
-| last720d | 2024-11-03 | 1 | 3 | 0 | 0 | 0 | 16 |
+| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-26 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-27 | 0 | 0 | 0 | 0 | 1 | 4 |
+| last180d | 2026-04-28 | 0 | 3 | 0 | 0 | 1 | 4 |
+| 360d | 2025-10-30 | 1 | 3 | 0 | 0 | 1 | 15 |
+| last720d | 2024-11-04 | 1 | 3 | 0 | 0 | 1 | 16 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for keyb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:42:49Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:46:42Z._
